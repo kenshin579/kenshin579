@@ -28,6 +28,7 @@
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
+  ![Antd](https://img.shields.io/badge/-Antd-333333?style=flat&logo=antd)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![Jasmine](https://img.shields.io/badge/-Jasmine.js-333333?style=flat&logo=jasmine)
 - 🛢 &nbsp;
