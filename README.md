@@ -15,22 +15,39 @@
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
+  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java&logoColor=007396)
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+  ![ShellScript](https://img.shields.io/badge/-Shell%20Script-333333?style=flat&logo=shell)
+  ![Spring4](https://img.shields.io/badge/-Spring-333333?style=flat&logo=spring&logoColor=007396)
+  ![SpringBoot](https://img.shields.io/badge/-Spring%20Boot-333333?style=flat&logo=spring)
+  ![JPA](https://img.shields.io/badge/-JPA-333333?style=flat&logo=jpa)
+  ![Mybatis](https://img.shields.io/badge/-Mybatis-333333?style=flat&logo=mybatis)
+  ![JUnit5](https://img.shields.io/badge/-JUnit5-333333?style=flat&logo=junit)
 - 🌐 &nbsp;
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+  ![Jasmine](https://img.shields.io/badge/-Jasmine.js-333333?style=flat&logo=jasmine)
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+  ![Redis](https://img.shields.io/badge/-Redis-333333?style=flat&logo=redis)
+  ![Memcached](https://img.shields.io/badge/-Memcached-333333?style=flat&logo=memcached)
+  ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-333333?style=flat&logo=rabbitmq)
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+  ![Maven](https://img.shields.io/badge/-Maven-333333?style=flat&logo=maven)
+  ![Gradle](https://img.shields.io/badge/-Gradle-333333?style=flat&logo=gradle)
+  ![SonarQube](https://img.shields.io/badge/-SonarQube-333333?style=flat&logo=sonarqube)
+  ![Jenkins](https://img.shields.io/badge/-Jenkins-333333?style=flat&logo=jenkins)
 - 🔧 &nbsp;
+  ![Intellij IDEA](https://img.shields.io/badge/-Intellij%20IDEA-333333?style=flat&logo=intellij-idea)
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+  ![WhaTap](https://img.shields.io/badge/-WhaTap-333333?style=flat&logo=whatap)
+  
 
 <br/>
 
