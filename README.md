@@ -3,8 +3,8 @@
 <h2> Hey there! I'm Frank.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
-- Backend Developer in e-commerce industry. 
-- Photography, Blogging, Reading, Traveling, Scuba Diving
+- &nbsp; Backend Developer in e-commerce industry. 
+- &nbsp; Photography, Blogging, Reading, Traveling, Scuba Diving
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
