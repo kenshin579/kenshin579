@@ -5,6 +5,10 @@
 </div>
 
 ### Software Engineer
+- Backend Developer in e-commerce industry. 
+
+### Interests
+- Photography, Blogging, Reading, Traveling, Scuba Diving
 
 <div align=center>
 
