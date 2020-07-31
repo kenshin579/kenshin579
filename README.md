@@ -9,8 +9,8 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- Backend Developer in e-commerce industry. 
-- Photography, Blogging, Reading, Traveling, Scuba Diving
+- Working as a Backend Developer at Tmon, Inc.  
+- Pursuing Photography, Blogging, Reading, Traveling, and Scuba Diving as my hobbies
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
