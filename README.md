@@ -48,8 +48,8 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
   ![WhaTap](https://img.shields.io/badge/-WhaTap-333333?style=flat&logo=whatap)
-  ![AWS EC2](https://img.shields.io/badge/-EC2-333333?style=flat&logo=ec2)
-  ![AWS S3](https://img.shields.io/badge/-S3-333333?style=flat&logo=s3)
+  ![AWS EC2](https://img.shields.io/badge/-AWS%20EC2-333333?style=flat&logo=aws-ec2)
+  ![AWS S3](https://img.shields.io/badge/-AWS%20S3-333333?style=flat&logo=aws-s3)
   
 
 <br/>
