@@ -56,7 +56,7 @@
 
 <a href="https://github.com/kenshin579">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kenshin579&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenshin579&langs_count=6&theme=buefy&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenshin579&langs_count=8&theme=buefy&layout=compact" />
 </a>
 
 
