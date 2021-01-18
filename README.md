@@ -16,6 +16,7 @@
 
 - 💻 &nbsp;
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java&logoColor=007396)
+  ![Go](https://img.shields.io/badge/-Go-333333?style=flat&logo=go)
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![ShellScript](https://img.shields.io/badge/-Shell%20Script-333333?style=flat&logo=shell)
   ![Spring4](https://img.shields.io/badge/-Spring-333333?style=flat&logo=spring&logoColor=007396)
