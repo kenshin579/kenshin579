@@ -9,7 +9,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- Working as a Backend Developer at Tmon, Inc.  
+- Working as a Backend Developer at NAVER LABS Corp.  
 - Pursuing Photography, Blogging, Reading, Traveling, and Scuba Diving as my hobbies
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
