@@ -37,11 +37,11 @@
   ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-333333?style=flat&logo=rabbitmq)
   
 - ☁️ &nbsp;
-  ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon-aws)
-  ![NCP](https://img.shields.io/badge/-NCP-333333?style=flat&logo=ncp)
   ![k8s](https://img.shields.io/badge/-kubernetes-333333?style=flat&logo=kubernetes)
   ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
   ![Helm](https://img.shields.io/badge/-Helm-333333?style=flat&logo=helm)
+  ![NCP](https://img.shields.io/badge/-NCP-333333?style=flat&logo=ncp)
+  ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon-aws)
   
 - 🔧 &nbsp;
   ![GitHub Actions](https://img.shields.io/badge/-Github%20Actions-333333?style=flat&logo=githubactions)
