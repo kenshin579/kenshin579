@@ -23,18 +23,12 @@
   ![Spring](https://img.shields.io/badge/-Spring-333333?style=flat&logo=spring&logoColor=007396)
   ![SpringBoot](https://img.shields.io/badge/-Spring%20Boot-333333?style=flat&logo=spring)
   ![JPA](https://img.shields.io/badge/-JPA-333333?style=flat&logo=jpa)
-  
-- 🌐 &nbsp;
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=html)
 
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![Redis](https://img.shields.io/badge/-Redis-333333?style=flat&logo=redis)
   ![Kafka](https://img.shields.io/badge/Apache%20Kafka-%3333333?style=flat&logo=Apache%20Kafka)
   ![Memcached](https://img.shields.io/badge/-Memcached-333333?style=flat&logo=memcached)
-  ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-333333?style=flat&logo=rabbitmq)
   
 - ☁️ &nbsp;
   ![k8s](https://img.shields.io/badge/-kubernetes-333333?style=flat&logo=kubernetes)
@@ -44,14 +38,13 @@
   ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon-aws)
   
 - 🔧 &nbsp;
+  ![Jetbrain](https://img.shields.io/badge/-Intellij%20IDEA-333333?style=flat&logo=intellij-idea)
+  ![VScode](https://img.shields.io/badge/-VSCode-333333?style=flat&logo=vscode&logoColor=007ACC)
   ![GitHub Actions](https://img.shields.io/badge/-Github%20Actions-333333?style=flat&logo=githubactions)
   ![ArgoCD](https://img.shields.io/badge/-Argo-333333?style=flat&logo=argo)
   ![Jenkins](https://img.shields.io/badge/-Jenkins-333333?style=flat&logo=jenkins)
-  ![Yona](https://img.shields.io/badge/-yona-333333?style=flat&logo=yona&logoColor=007ACC)
   ![Jira](https://img.shields.io/badge/-jira-333333?style=flat&logo=jira&logoColor=007ACC)
   ![Confluence](https://img.shields.io/badge/-confluence-333333?style=flat&logo=confluence&logoColor=007ACC)
-  ![Intellij IDEA](https://img.shields.io/badge/-Intellij%20IDEA-333333?style=flat&logo=intellij-idea)
-  ![VScode](https://img.shields.io/badge/-VSCode-333333?style=flat&logo=vscode&logoColor=007ACC)
   
 
 <a href="https://github.com/kenshin579">
