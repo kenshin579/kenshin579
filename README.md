@@ -37,15 +37,21 @@
   ![NCP](https://img.shields.io/badge/-NCP-333333?style=flat&logo=ncp)
   ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon-aws)
   
+- 🤖 &nbsp;
+  ![Claude Code](https://img.shields.io/badge/-Claude%20Code-333333?style=flat&logo=anthropic&logoColor=D97757)
+  ![Cursor](https://img.shields.io/badge/-Cursor-333333?style=flat&logo=cursor)
+  ![ChatGPT](https://img.shields.io/badge/-ChatGPT-333333?style=flat&logo=openai)
+  ![GitHub Copilot](https://img.shields.io/badge/-GitHub%20Copilot-333333?style=flat&logo=githubcopilot)
+  ![MCP](https://img.shields.io/badge/-MCP-333333?style=flat&logo=protocol)
+
 - 🔧 &nbsp;
-  ![Jetbrain](https://img.shields.io/badge/-Intellij%20IDEA-333333?style=flat&logo=intellij-idea)
-  ![VScode](https://img.shields.io/badge/-VSCode-333333?style=flat&logo=vscode&logoColor=007ACC)
+  ![JetBrains](https://img.shields.io/badge/-Intellij%20IDEA-333333?style=flat&logo=intellij-idea)
   ![GitHub Actions](https://img.shields.io/badge/-Github%20Actions-333333?style=flat&logo=githubactions)
   ![ArgoCD](https://img.shields.io/badge/-Argo-333333?style=flat&logo=argo)
   ![Jenkins](https://img.shields.io/badge/-Jenkins-333333?style=flat&logo=jenkins)
   ![Jira](https://img.shields.io/badge/-jira-333333?style=flat&logo=jira&logoColor=007ACC)
   ![Confluence](https://img.shields.io/badge/-confluence-333333?style=flat&logo=confluence&logoColor=007ACC)
-  
+
 
 <a href="https://github.com/kenshin579">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kenshin579&theme=buefy&show_icons=true" />
